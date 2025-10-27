@@ -12,11 +12,29 @@ K学长的知识宝库，正式全面开源！
 
 十多年潜心学习与实践的积累，数不清的日夜打磨与整理，如今终于以“开源”的形式，与所有有志于学习、研究、创新的朋友们分享。这不仅仅是一份资料的释放，更是一份开放精神的传承。
 
-🌟 什么是“K学长的知识宝库”？
+🌟 什么是“K学长的深度学习宝库”？
 
 一句话概括：
 
 这是一个横跨十余年、涵盖学习、科研、开发、实践的超级知识体系
+
+
+
+# 深度学习专栏笔记
+
+- [【极速入门】14天深度学习从0基础到入门](https://zzgcz.com/zhuanlan)
+- [【极速入门】实战入门：7天搞定PyTorch从安装到模型训练](https://zzgcz.com/zhuanlan)
+- [【极速入门】手把手教你OpenCV图像处理](https://zzgcz.com/zhuanlan)
+- [【极速入门】YOLO源码逐行超详细解读和入门实践](https://zzgcz.com/zhuanlan)
+- [【极速入门】机器学习常见算法学习笔记](https://zzgcz.com/zhuanlan)
+- [【极速入门】史上最全-149篇RT-DETR模型改进策略](https://zzgcz.com/zhuanlan)
+- [【极速入门】【深度学习进阶】7天完成参数调优和模型训练](https://zzgcz.com/zhuanlan)
+- [【极速入门】新手入门：3天吃透NLP从词向量到BERT的全栈路线](https://zzgcz.com/zhuanlan)
+- [【极速入门】14天吃透Transformers模型库，从安装到发布你的第一个大模型](https://zzgcz.com/zhuanlan)
+- [【极速入门】unet的所有变种创新代码实操-基于最强模型nnunetv2改进](https://zzgcz.com/zhuanlan)
+- [【极速入门】可发SCI一区：目标检测多模态创新融合专栏](https://zzgcz.com/zhuanlan)
+
+
 
 
 # 深度学习模型笔记
